@@ -363,11 +363,10 @@
 			isa = PBXGroup;
 			children = (
 				03D151D62E0E9E43007A38BE /* ExecuTorchLLM */,
-				03D151D72E0E9E43007A38BE /* BUCK */,
 			);
 			name = apple;
-			path = /Users/shoumikhin/executorch/extension/llm/apple;
-			sourceTree = "<absolute>";
+			path = ../../../../../../extension/llm/apple;
+			sourceTree = "<group>";
 		};
 		F292B0842D88B0D200BE6839 /* tokenizers */ = {
 			isa = PBXGroup;
@@ -551,7 +550,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				03D151DA2E0E9E43007A38BE /* BUCK in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
